@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  card_select:
+    build: .
+    # image: dashboard_apps_card_select
+    restart: always
+    ports:
+      - 8050:8050
+

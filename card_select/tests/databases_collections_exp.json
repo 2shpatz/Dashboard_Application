@@ -1,0 +1,38 @@
+
+{
+    "databases": [
+
+        {
+            "name" : "tests",
+            "collections" : [
+                {
+                    "name" : "functional_tests",
+                    "test_name" : []
+                },
+                {
+                    "name" : "operation_tests",
+                    "test_name" : []
+                },
+
+                {
+                    "name" : "general_tests",
+                    "test_name" : []
+                }
+            ]
+        },
+        {
+            "name" : "statistics",
+            "collections" : [
+                {
+                    "name" : "portia_statistics",
+                    "test_name" : []
+                },
+
+                {
+                    "name": "general_statistics",
+                    "test_name" : []
+                }
+            ]
+        }
+    ]
+}

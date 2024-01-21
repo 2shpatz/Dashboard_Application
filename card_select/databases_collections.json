@@ -1,0 +1,16 @@
+
+{
+    "databases": [
+
+        {
+            "name" : "pipeline_regression",
+            "collections" : [
+                {
+                    "name" : "01_function_tests",
+                    "test_name" : []
+                }
+            ]
+        }
+        
+    ]
+}
